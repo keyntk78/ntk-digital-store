@@ -1,0 +1,11 @@
+{
+  "LOGIN_SUCCESS": "Đăng nhập thành công!",
+  "REGISTER_SUCCESS": "Đăng ký thành công! Vui lòng kiểm tra email để xác nhận.",
+  "REGISTER_FAILED": "Đăng ký thất bại!",
+  "LOGOUT_SUCCESS": "Đăng xuất thành công!",
+  "ACCOUNT_PASSWORD_INCORRECT": "Tài khoản hoặc mật khẩu không đúng",
+  "USER_EXISTED": "Người dùng đã tồn tại. Vui lòng kiểm tra tên tài khoản hoặc số điện thoại.",
+  "BRAND_EXISTED": "Thương hiệu đã tồn tại!",
+  "BRAND_NOT_FOUND": "Thương hiệu không tồn tại!",
+  "PRODUCTCATEGORY_EXISTED": "Loại sản phẩm đã tồn tại"
+}

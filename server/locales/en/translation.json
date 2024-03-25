@@ -1,0 +1,11 @@
+{
+  "LOGIN_SUCCESS": "Login successfully!",
+  "REGISTER_SUCCESS": "Register successfully! Please check email",
+  "REGISTER_FAILED": "Register Failed!",
+  "LOGOUT_SUCCESS": "Logout successfully!",
+  "ACCOUNT_PASSWORD_INCORRECT": "Account or password is incorrect",
+  "USER_EXISTED": "User already exists. Please check the username or phone number.",
+  "BRAND_EXISTED": "Brand has existed!.",
+  "BRAND_NOT_FOUND": "Brand not found!",
+  "PRODUCTCATEGORY_EXISTED": "Product category not found!"
+}
